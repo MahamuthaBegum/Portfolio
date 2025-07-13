@@ -82,7 +82,7 @@ function Projects() {
                     </p>
                     <div className="flex gap-3">
                         <a
-                            href="https://your-ecommerce-site.vercel.app"
+                            href="https://health-sync-lyart.vercel.app/"
                             target="_blank"
                             rel="noreferrer"
                             className="text-white bg-gradient-to-r from-blue-500 to-blue-700 px-4 py-2 rounded-lg font-semibold shadow hover:from-blue-600 hover:to-blue-800 transition"
@@ -90,7 +90,7 @@ function Projects() {
                             Live
                         </a>
                         <a
-                            href="https://github.com/yourusername/ecommerce-site"
+                            href="https://github.com/MahamuthaBegum/HealthSync.git"
                             target="_blank"
                             rel="noreferrer"
                             className="text-blue-700 px-4 py-2 border border-blue-600 rounded-lg hover:bg-blue-50 transition font-semibold"
