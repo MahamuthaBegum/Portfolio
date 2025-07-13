@@ -3,8 +3,8 @@ const router = express.Router();
 const Contact = require("../models/Contact");
 
 router.post("/", async (req, res) => {
-  console.log("Received POST /api/contact"); // 👈 Add this
-  console.log("Body:", req.body);             // 👈 And this
+  console.log("Received POST /api/contact"); 
+  console.log("Body:", req.body);            
 
   try {
     const { name, email, message } = req.body;
